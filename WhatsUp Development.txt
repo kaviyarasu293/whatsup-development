@@ -7,3 +7,5 @@ WhatsUp Development
 3.passport number
 
 4.aadhar number
+
+Hiding the last seen
